@@ -1,1 +1,1 @@
-A simple TicTacToe class built in Python.
+A simple TicTacToe class built in Python, with a flexible UI class along with it.
